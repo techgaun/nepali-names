@@ -5,3 +5,4 @@
 ## Data Source
 
 - [amitness/gender-data](https://github.com/amitness/gender-data/blob/master/genders.csv)
+- [nepaliname.com](http://www.nepaliname.com/)
