@@ -428,6 +428,7 @@ Chandha
 Chandika
 Chandni
 Chandra
+Chandrakala
 Chandrawoti
 Chandrika
 Chaneswori
@@ -583,6 +584,7 @@ Farina
 Farjana
 Freza
 Fungma
+Fulmaya
 Ganakeshari
 Gandira
 Ganesha
@@ -752,6 +754,7 @@ Jigyasha
 Jivika
 Johny
 Jolly
+Jotishna
 Joshi
 Joshika
 Joshna
@@ -1651,6 +1654,7 @@ Rupashi
 Rupashri
 Rupika
 Rupisha
+Rupkala
 Ruprama
 Rusha
 Ruska
@@ -2173,6 +2177,7 @@ Srijila
 Srijita
 Srikirti
 Srilina
+Sringar
 Srisha
 Srishti
 Srista
@@ -2202,6 +2207,7 @@ Subhechha
 Subheckshya
 Subhekshya
 Subhiksha
+Subhodra
 Subi
 Subidha
 Subigya
@@ -2317,6 +2323,7 @@ Surekha
 Surena
 Surendra
 Surina
+Surita
 Surisha
 Suruchi
 Surupa
@@ -2335,6 +2342,7 @@ Sushmita
 Sushna
 Sushrita
 Sushrusha
+Sushobhika
 Susila
 Susita
 Susma
