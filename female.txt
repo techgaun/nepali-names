@@ -428,6 +428,7 @@ Chandha
 Chandika
 Chandni
 Chandra
+Chandrakala
 Chandrawoti
 Chandrika
 Chaneswori
@@ -583,6 +584,7 @@ Farina
 Farjana
 Freza
 Fungma
+Fulmaya
 Ganakeshari
 Gandira
 Ganesha
@@ -1651,6 +1653,7 @@ Rupashi
 Rupashri
 Rupika
 Rupisha
+Rupkala
 Ruprama
 Rusha
 Ruska
